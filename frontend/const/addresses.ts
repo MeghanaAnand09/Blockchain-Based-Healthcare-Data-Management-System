@@ -1,1 +1,1 @@
-export const CONTRACT_ADDRESS="constract address";
+export const CONTRACT_ADDRESS="contract address";
